@@ -2,7 +2,7 @@
 Winter Quarter 2015
 
 ## Course Description
-Instructor: Brian Eng
+Instructor: Jeffrey Cohen
 
 This course is geared for entrepreneurs and non-programmers who want to learn the essentials of building web applications. Students will build a small website in steps, gaining skills in software analysis and experience with tools for building modern web applications.
 
@@ -20,12 +20,12 @@ Attendance at lectures is paramount, and participation is a significant part of 
 ### Computer Requirements
 Students must own or have access to a modern computer that is capable of running the development tools needed for class. MacBooks are highly recommended, though most PCs can be made to work as well. Detailed installation instructions for both platforms will be provided at the first class.
 
-### ￼￼Assignments and Grading
+### Assignments and Grading
 Students must build a project of their choosing throughout the quarter as their final project. Students are encouraged to work in pairs for all assignments including the final project, but each student must turn in their own project code that they developed themselves.
 
-✦ Homework is worth 60% of your grade, based on 3 assignments worth 20% each.
-✦ The Final Project is worth 30% of your grade. Students must deploy a live, functioning website to a public internet address as their final project.
-✦ Class participation is worth 10% of your grade.
+- Homework is worth 60% of your grade, based on 3 assignments worth 20% each.
+- The Final Project is worth 30% of your grade. Students must deploy a live, functioning website to a public internet address as their final project.
+- Class participation is worth 10% of your grade.
 
 # Course Outline
 
@@ -60,7 +60,7 @@ Students must build a project of their choosing throughout the quarter as their 
 * Bootstrap
   * Grid system
   * Common elements
-  
+
 ### Week 4
 
 * Understand the basics of HTTP
