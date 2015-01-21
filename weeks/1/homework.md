@@ -1,6 +1,6 @@
 **1. Setup Your Development Environment**
 
-In case you didn't before the first class, [follow the instructions to install all necessary development tools](/kiei924-winter15-ev/workbook/setup).
+In case you didn't before the first class, [follow the instructions to install all necessary development tools](/kiei924-winter15-chi/workbook/setup).
 
 # Due Next Thursday by 11:59PM
 
