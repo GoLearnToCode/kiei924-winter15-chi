@@ -10,6 +10,11 @@ There's a also a short video to watch – it's recorded for Mac, but good for b
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/xTICpdoNXmo" frameborder="0" allowfullscreen></iframe>
 
+and here's a very short video with important instructions on how to signup on GitHub.com properly:
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/lEUW2h7RUl4" frameborder="0" allowfullscreen></iframe>
+
+
 Then, follow the below instructions for your platform.
 
 # For Mac Users
