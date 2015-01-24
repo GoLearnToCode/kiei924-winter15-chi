@@ -10,7 +10,7 @@ question_board: false
 sidebar:
 
   -
-    label: "Canvas Discussion & Grades"
+    label: "Canvas Discussion"
     url: "https://canvas.northwestern.edu/courses/9507/discussion_topics"
 
 
