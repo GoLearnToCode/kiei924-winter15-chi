@@ -1,18 +1,15 @@
-**1. Setup Your Development Environment**
-
-In case you didn't before the first class, [follow the instructions to install all necessary development tools](/kiei924-winter15-chi/workbook/setup).
+In case you haven't already, [follow the instructions to install all necessary development tools](/kiei924-winter15-chi/workbook/setup).
 
 # Due Next Wednesday by 5:59PM
 
 Practice what we did in class.  You should be able to:
 
-1. Create a new text file named "index.html"
-2. Make this page your own. It could your personal profile page, blog, list of recipes, or any other idea you might have.
-3. View the page in your browser.
-4. The browser tab should display a meaningful title describing what the page is about (e.g. "About Me", "Brian's Recipes", etc.)
-5. Sync your code into your GitHub.com account. The repository should be named *(your Github username)*.github.io. For example, my Github username is *eng*, so my repository name for this assignment should be *eng.github.io*. This will automatically make your page available on the public Internet at that address (e.g. http://eng.github.io/).
+1. Open the `index.html` file in Sublime Text.
+2. Make this page your own. Change each section so that the page describes something about you instead of good ol' Walter.  You don't need to provide much detail.  The main thing is to just get practice at writing HTML content.
+3. Make sure the browser tab displays a meaningful title (e.g. "About Me", "Brian's Resume", etc.)
+4. Sync your code into your GitHub.com account. The repository should be named *(your Github username)*.github.io. For example, my Github username is *jcohen*, so my repository name for this assignment would be *jcohen.github.io*. This will automatically make your page available on the public Internet at that address (e.g. http://jcohen.github.io/).
 
-You should use these elements at least once:
+Make sure you use all of these elements at least once:
 
 * h1
 * p
