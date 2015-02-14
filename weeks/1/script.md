@@ -8,7 +8,9 @@
 - Open folder of profile code (from zip file) in ST
 - Demo first code rhythm
 - CHALLENGE: Change other stuff
-- break
+
+**break**
+
 - View Source
 - GitHub App: It's a Camera
 - Commit & Publish personal site
