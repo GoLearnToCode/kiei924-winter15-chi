@@ -1,7 +1,12 @@
 - clone or download learn-html
-- inline vs black elements
-- nested elements: tables and lists
-- links
+
+- sandbox.html
+  - doctype, html, valid html5  
+  - inline vs block elements
+  - links
+  - a href attributes, img src
+  - formal element definition
+  - nested elements: tables and lists
 
 **break**
 
