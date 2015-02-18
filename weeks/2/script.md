@@ -28,7 +28,8 @@
     - Margin
     - Padding
     - Exercise: Aim for movie_final.html
-  - floats
+
+- floats
 
 - extra if time?
   - Webfonts
