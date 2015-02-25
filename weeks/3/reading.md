@@ -1,2 +1,3 @@
 - [Bootstrap Documentation](http://getbootstrap.com/)
 - [Bootstrap Starter Template](https://gist.github.com/eng/3db2474e3566baac9f90)
+- [TED Talk: Introduction to Arduino (2012)](http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination)
