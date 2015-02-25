@@ -1,6 +1,6 @@
 # Due Next Wednesday by 5:59PM
 
-Continue working on your username.github.io project. Modify your index.html page and add visual styles that apply good design principles and that are responsive across a variety of devices and platforms. (You can rename your original index.html and create a new one, if you want to keep it.)
+Continue working on your username.github.io project. Modify your index.html page, and add visual styles that apply good design principles, laying out your content according to a standard grid.
 
 You should:
 
