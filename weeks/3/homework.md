@@ -6,7 +6,6 @@ You should:
 
 - Link to the Bootstrap CSS framework in your HEAD tag
 - Utilize the Bootstrap grid system to create a logical separation in your design elements (e.g. header, content, sidebar, footer) on medium-sized (992px wide and up) devices and up
-- Ensure that on small sized devices (768px and up), you can still see content and a sidebar, and that content is not simply stacked
 - Use at least one of Bootstrap's built-in CSS classes to style HTML elements. Examples:
   - Make a link look like a button
   - Style a table
@@ -18,4 +17,4 @@ You should:
   - Alert
   - Etc.
 
-Commit and sync your changes to your Github account no later than 11:59pm on Thursday.
+Commit and sync your changes to your Github account no later than 5:59pm on Wednesday.
