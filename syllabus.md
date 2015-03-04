@@ -72,3 +72,17 @@ Students must build a project of their choosing throughout the quarter as their 
 * Intro to Javascript
 * Integration of third-party scripts
 * What's Next
+
+## Final Project Requirements
+
+**Due: Monday, March 16 at 11:59pm**
+
+For the final, turn in the completed version of your username.github.io project. As with the homeworks, feel free to work in teams, but turn in your work individually via your own Github account.
+
+* Utilize the Bootstrap CSS framework to ensure responsive (device-independent) design via the grid system.
+* Create at least 3 pages that utilize the same basic layout and design.
+* Link the pages together using a common navigation element that appears on all 3 pages (e.g. a nav or a navbar).
+* Override the Boostrap CSS with your own custom CSS to style elements using your own preferred colors and typography.
+* Implement a contact form that submits to a mailto: link. Ensure that the email drafted contains the information in the form.
+
+Commit and sync your code to your username.github.io repository no later than Monday, March 16 at 11:59pm.
