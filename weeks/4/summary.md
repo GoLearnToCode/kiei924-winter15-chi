@@ -1,6 +1,9 @@
 # Goals
 
+* CSS Reset vs. Normalize vs. Bootstrap
+* Using Bootstrap Components
+* Overriding Bootstrap Styles
 * Understand screen resolutions across devices and platforms
-* Connect pages and create apps with forms
+* (Maybe) HTML Forms
 
-<a href="mailto:brian@brianeng.com">Test the mailto!</a>
+<a href="mailto:j-cohen@kellogg.northwestern.edu">Send an email!</a>
